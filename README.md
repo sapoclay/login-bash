@@ -30,4 +30,5 @@ En resumen, este script de shell proporciona un sistema básico de autenticació
 
 ## Uso
 Para hacer funcionar este sencillo script, basta con descargarlo y guardarlo en el archivo .sh, que debería llamarse (al menos yo lo llamé así) login-usuarios.sh. Para hacerlo funcionar, solo se necesita dar permisos de ejecución con el comando:
-''' sudo chmod +x login-usuarios.sh '''
+
+``` sudo chmod +x login-usuarios.sh ```
