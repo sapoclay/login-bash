@@ -33,4 +33,4 @@ Para hacer funcionar este sencillo script, basta con descargarlo y guardarlo en 
 
 ``` sudo chmod +x login-usuarios.sh ```
 
-[Publicado en enteunosyceros.net]([https://www.openai.com/](https://entreunosyceros.net/script-en-bash-para-crear-un-login-basico/)https://entreunosyceros.net/script-en-bash-para-crear-un-login-basico/ "enteunosyceros.net")
+[Publicado en entreunosyceros.net](https://entreunosyceros.net/script-en-bash-para-crear-un-login-basico/)
