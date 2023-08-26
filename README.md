@@ -27,3 +27,7 @@ Hacer un login en bash que permita al usuario escribir el usuario y la contrase�
 - Menú Interactivo: Si no se proporcionan argumentos desde la línea de comandos, se muestra un menú interactivo que permite al usuario seleccionar entre las opciones de inicio de sesión, creación de usuario, eliminación de usuario y salida del programa.
 
 En resumen, este script de shell proporciona un sistema básico de autenticación de usuarios y administración de cuentas, permitiendo a los usuarios iniciar sesión, crear nuevas cuentas, eliminar sus propias cuentas y obtener ayuda sobre cómo usar el script. Vamos, que no deja de ser una pequeña práctica sobre la elaboración de archivo .sh
+
+## Uso
+Para hacer funcionar este sencillo script, basta con descargarlo y guardarlo en el archivo .sh, que debería llamarse (al menos yo lo llamé así) login-usuarios.sh. Para hacerlo funcionar, solo se necesita dar permisos de ejecución con el comando:
+''' sudo chmod +x login-usuarios.sh '''
