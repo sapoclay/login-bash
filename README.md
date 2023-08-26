@@ -2,7 +2,7 @@
 
 Hacer un login en bash que permita al usuario escribir el usuario y la contraseña. Algunas de las cosas que permite realizar este sencillo script son:
 
-![menu-login](https://github.com/sapoclay/login-bash/assets/6242827/0b8ec390-883d-413b-949f-a1cd991025e1) ![ayuda-login-terminal](https://github.com/sapoclay/login-bash/assets/6242827/fc2df9a3-063e-4281-b12b-dba108e52766)
+![menu-login](https://github.com/sapoclay/login-bash/assets/6242827/0b8ec390-883d-413b-949f-a1cd991025e1) 
 
 - Funciones de Encriptación y Desencriptación: El script define dos funciones (encriptar_password y desencriptar_password) para encriptar y desencriptar contraseñas utilizando el algoritmo AES-256 en modo CBC y el algoritmo de derivación de clave PBKDF2. Esto garantiza que las contraseñas almacenadas en el archivo sean seguras.
 
@@ -15,6 +15,8 @@ Hacer un login en bash que permita al usuario escribir el usuario y la contrase�
 - Verificación de Existencia de Usuario: La función usuario_existe utiliza el comando grep para verificar si un usuario existe en el archivo de usuarios.
 
 - Creación de Usuario: La función crear_usuario permite crear un nuevo usuario proporcionando un nombre de usuario y una contraseña. Verifica si el usuario ya existe y, si no existe, agrega el nuevo usuario con la contraseña encriptada al archivo.
+
+![ayuda-login-terminal](https://github.com/sapoclay/login-bash/assets/6242827/fc2df9a3-063e-4281-b12b-dba108e52766)
 
 - Inicio de Sesión: La función login permite a un usuario iniciar sesión proporcionando su nombre de usuario y contraseña. Verifica si el usuario existe y si la contraseña es correcta.
 
