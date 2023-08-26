@@ -10,7 +10,7 @@ Hacer un login en bash que permita al usuario escribir el usuario y la contrase�
 
 - Creación de Archivo de Usuarios: Si el archivo loginusuarios.txt no existe, se crea. Este archivo contendrá los registros de usuarios y sus contraseñas encriptadas.
 
-- Función de Ayuda: La función ayuda muestra información sobre cómo usar el script, incluyendo las opciones disponibles y sus usos.
+- Función de Ayuda: La función ayuda muestra información sobre cómo usar el script desde la terminal, incluyendo las opciones disponibles y sus usos.
 
 - Verificación de Existencia de Usuario: La función usuario_existe utiliza el comando grep para verificar si un usuario existe en el archivo de usuarios.
 
