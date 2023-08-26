@@ -32,3 +32,5 @@ En resumen, este script de shell proporciona un sistema básico de autenticació
 Para hacer funcionar este sencillo script, basta con descargarlo y guardarlo en el archivo .sh, que debería llamarse (al menos yo lo llamé así) login-usuarios.sh. Para hacerlo funcionar, solo se necesita dar permisos de ejecución con el comando:
 
 ``` sudo chmod +x login-usuarios.sh ```
+
+[Publicado en enteunosyceros.net]([https://www.openai.com/](https://entreunosyceros.net/script-en-bash-para-crear-un-login-basico/)https://entreunosyceros.net/script-en-bash-para-crear-un-login-basico/ "enteunosyceros.net")
